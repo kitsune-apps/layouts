@@ -14,7 +14,7 @@ dependencies:
     sdk: flutter
 
   constants:
-    git: git@github.com:kitsune-apps/constants.git
+    git: git@github-kitsune:kitsune-apps/constants.git
 
 dev_dependencies:
   flutter_test:
